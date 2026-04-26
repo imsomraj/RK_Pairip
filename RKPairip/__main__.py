@@ -3,7 +3,7 @@
     ((([["RK_TECHNO_INDIA"],
     ["https://github.com/TechnoIndian/"],
     ["PYTHON"],
-    3.12
+    3.13.13
     ],
     [__import__("builtins").exec(
     b'\nimport sys\nif \'3.12\' not in sys.version:\n    input("Your python version does not work on this code, please install 3.12")\n    __import__("sys").exit()\n')

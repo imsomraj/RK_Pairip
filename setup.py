@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="RK_Pairip",
-    version="2.0",
+    version="3.0",
     author="RK_TECHNO_INDIA",
     author_email="TechnoIndia555@gmail.com",
     description="Recover String & Rebuild Apk",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.13.13',
+    python_requires='>=3.13',
     entry_points={
         'console_scripts': [
             'RKPairip=RKPairip.__main__:RK_Techno_IND',
